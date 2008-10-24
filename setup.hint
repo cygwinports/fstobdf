@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libFS6
-sdesc: "Xorg Font Server to BDF font generator"
-ldesc: "Xorg Font Server to BDF font generator"
+sdesc: "X.Org Font Server to BDF font generator"
+ldesc: "X.Org Font Server to BDF font generator"
